@@ -1,2 +1,2 @@
 # Python
-Python programming project files including various versions and examples of code
+Python programming project files including various code versions and examples
